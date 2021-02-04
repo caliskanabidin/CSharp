@@ -1,0 +1,21 @@
+C:\Users\Abidin\source\repos\Example6_Addition\Example6_Addition\bin\Debug\Example6_Addition.exe.config
+C:\Users\Abidin\source\repos\Example6_Addition\Example6_Addition\bin\Debug\Example6_Addition.exe
+C:\Users\Abidin\source\repos\Example6_Addition\Example6_Addition\bin\Debug\Example6_Addition.pdb
+C:\Users\Abidin\source\repos\Example6_Addition\Example6_Addition\obj\Debug\Example6_Addition.csprojAssemblyReference.cache
+C:\Users\Abidin\source\repos\Example6_Addition\Example6_Addition\obj\Debug\Example6_Addition.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\source\repos\Example6_Addition\Example6_Addition\obj\Debug\Example6_Addition.exe
+C:\Users\Abidin\source\repos\Example6_Addition\Example6_Addition\obj\Debug\Example6_Addition.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example6_Addition\Example6_Addition\bin\Debug\Example6_Addition.exe.config
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example6_Addition\Example6_Addition\bin\Debug\Example6_Addition.exe
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example6_Addition\Example6_Addition\bin\Debug\Example6_Addition.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example6_Addition\Example6_Addition\obj\Debug\Example6_Addition.csprojAssemblyReference.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example6_Addition\Example6_Addition\obj\Debug\Example6_Addition.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example6_Addition\Example6_Addition\obj\Debug\Example6_Addition.exe
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example6_Addition\Example6_Addition\obj\Debug\Example6_Addition.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example6_Addition\Example6_Addition\bin\Debug\Example6_Addition.exe.config
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example6_Addition\Example6_Addition\bin\Debug\Example6_Addition.exe
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example6_Addition\Example6_Addition\bin\Debug\Example6_Addition.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example6_Addition\Example6_Addition\obj\Debug\Example6_Addition.csprojAssemblyReference.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example6_Addition\Example6_Addition\obj\Debug\Example6_Addition.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example6_Addition\Example6_Addition\obj\Debug\Example6_Addition.exe
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example6_Addition\Example6_Addition\obj\Debug\Example6_Addition.pdb

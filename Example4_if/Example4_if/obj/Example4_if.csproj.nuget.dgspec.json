@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Abidin\\Google Drive\\Ders Notları\\Windows Programlama\\Ders Notlarım\\Uygulamalar\\Examples\\Example4_if\\Example4_if\\Example4_if.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Abidin\\Google Drive\\Ders Notları\\Windows Programlama\\Ders Notlarım\\Uygulamalar\\Examples\\Example4_if\\Example4_if\\Example4_if.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Abidin\\Google Drive\\Ders Notları\\Windows Programlama\\Ders Notlarım\\Uygulamalar\\Examples\\Example4_if\\Example4_if\\Example4_if.csproj",
+        "projectName": "Example4_if",
+        "projectPath": "C:\\Users\\Abidin\\Google Drive\\Ders Notları\\Windows Programlama\\Ders Notlarım\\Uygulamalar\\Examples\\Example4_if\\Example4_if\\Example4_if.csproj",
+        "packagesPath": "C:\\Users\\Abidin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abidin\\Google Drive\\Ders Notları\\Windows Programlama\\Ders Notlarım\\Uygulamalar\\Examples\\Example4_if\\Example4_if\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Abidin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

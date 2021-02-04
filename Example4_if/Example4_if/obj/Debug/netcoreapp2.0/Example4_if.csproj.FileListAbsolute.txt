@@ -1,0 +1,34 @@
+C:\Users\Abidin\source\repos\Example4_if\Example4_if\obj\Debug\netcoreapp2.0\Example4_if.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\source\repos\Example4_if\Example4_if\obj\Debug\netcoreapp2.0\Example4_if.AssemblyInfoInputs.cache
+C:\Users\Abidin\source\repos\Example4_if\Example4_if\obj\Debug\netcoreapp2.0\Example4_if.AssemblyInfo.cs
+C:\Users\Abidin\source\repos\Example4_if\Example4_if\bin\Debug\netcoreapp2.0\Example4_if.deps.json
+C:\Users\Abidin\source\repos\Example4_if\Example4_if\bin\Debug\netcoreapp2.0\Example4_if.runtimeconfig.json
+C:\Users\Abidin\source\repos\Example4_if\Example4_if\bin\Debug\netcoreapp2.0\Example4_if.runtimeconfig.dev.json
+C:\Users\Abidin\source\repos\Example4_if\Example4_if\bin\Debug\netcoreapp2.0\Example4_if.dll
+C:\Users\Abidin\source\repos\Example4_if\Example4_if\bin\Debug\netcoreapp2.0\Example4_if.pdb
+C:\Users\Abidin\source\repos\Example4_if\Example4_if\obj\Debug\netcoreapp2.0\Example4_if.dll
+C:\Users\Abidin\source\repos\Example4_if\Example4_if\obj\Debug\netcoreapp2.0\Example4_if.pdb
+C:\Users\Abidin\source\repos\Example4_if\Example4_if\obj\Debug\netcoreapp2.0\Example4_if.csprojAssemblyReference.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example4_if\Example4_if\bin\Debug\netcoreapp2.0\Example4_if.deps.json
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example4_if\Example4_if\bin\Debug\netcoreapp2.0\Example4_if.runtimeconfig.json
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example4_if\Example4_if\bin\Debug\netcoreapp2.0\Example4_if.runtimeconfig.dev.json
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example4_if\Example4_if\bin\Debug\netcoreapp2.0\Example4_if.dll
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example4_if\Example4_if\bin\Debug\netcoreapp2.0\Example4_if.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example4_if\Example4_if\obj\Debug\netcoreapp2.0\Example4_if.csprojAssemblyReference.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example4_if\Example4_if\obj\Debug\netcoreapp2.0\Example4_if.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example4_if\Example4_if\obj\Debug\netcoreapp2.0\Example4_if.AssemblyInfoInputs.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example4_if\Example4_if\obj\Debug\netcoreapp2.0\Example4_if.AssemblyInfo.cs
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example4_if\Example4_if\obj\Debug\netcoreapp2.0\Example4_if.dll
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example4_if\Example4_if\obj\Debug\netcoreapp2.0\Example4_if.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example4_if\Example4_if\bin\Debug\netcoreapp2.0\Example4_if.deps.json
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example4_if\Example4_if\bin\Debug\netcoreapp2.0\Example4_if.runtimeconfig.json
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example4_if\Example4_if\bin\Debug\netcoreapp2.0\Example4_if.runtimeconfig.dev.json
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example4_if\Example4_if\bin\Debug\netcoreapp2.0\Example4_if.dll
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example4_if\Example4_if\bin\Debug\netcoreapp2.0\Example4_if.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example4_if\Example4_if\obj\Debug\netcoreapp2.0\Example4_if.csprojAssemblyReference.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example4_if\Example4_if\obj\Debug\netcoreapp2.0\Example4_if.AssemblyInfoInputs.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example4_if\Example4_if\obj\Debug\netcoreapp2.0\Example4_if.AssemblyInfo.cs
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example4_if\Example4_if\obj\Debug\netcoreapp2.0\Example4_if.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example4_if\Example4_if\obj\Debug\netcoreapp2.0\Example4_if.dll
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example4_if\Example4_if\obj\Debug\netcoreapp2.0\Example4_if.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example4_if\Example4_if\obj\Debug\netcoreapp2.0\Example4_if.genruntimeconfig.cache

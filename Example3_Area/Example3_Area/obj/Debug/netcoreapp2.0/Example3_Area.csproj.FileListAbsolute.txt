@@ -1,0 +1,34 @@
+C:\Users\Abidin\source\repos\Example3_Area\Example3_Area\bin\Debug\netcoreapp2.0\Example3_Area.deps.json
+C:\Users\Abidin\source\repos\Example3_Area\Example3_Area\bin\Debug\netcoreapp2.0\Example3_Area.runtimeconfig.json
+C:\Users\Abidin\source\repos\Example3_Area\Example3_Area\bin\Debug\netcoreapp2.0\Example3_Area.runtimeconfig.dev.json
+C:\Users\Abidin\source\repos\Example3_Area\Example3_Area\bin\Debug\netcoreapp2.0\Example3_Area.dll
+C:\Users\Abidin\source\repos\Example3_Area\Example3_Area\bin\Debug\netcoreapp2.0\Example3_Area.pdb
+C:\Users\Abidin\source\repos\Example3_Area\Example3_Area\obj\Debug\netcoreapp2.0\Example3_Area.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\source\repos\Example3_Area\Example3_Area\obj\Debug\netcoreapp2.0\Example3_Area.AssemblyInfoInputs.cache
+C:\Users\Abidin\source\repos\Example3_Area\Example3_Area\obj\Debug\netcoreapp2.0\Example3_Area.AssemblyInfo.cs
+C:\Users\Abidin\source\repos\Example3_Area\Example3_Area\obj\Debug\netcoreapp2.0\Example3_Area.dll
+C:\Users\Abidin\source\repos\Example3_Area\Example3_Area\obj\Debug\netcoreapp2.0\Example3_Area.pdb
+C:\Users\Abidin\source\repos\Example3_Area\Example3_Area\obj\Debug\netcoreapp2.0\Example3_Area.csprojAssemblyReference.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example3_Area\Example3_Area\bin\Debug\netcoreapp2.0\Example3_Area.deps.json
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example3_Area\Example3_Area\bin\Debug\netcoreapp2.0\Example3_Area.runtimeconfig.json
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example3_Area\Example3_Area\bin\Debug\netcoreapp2.0\Example3_Area.runtimeconfig.dev.json
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example3_Area\Example3_Area\bin\Debug\netcoreapp2.0\Example3_Area.dll
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example3_Area\Example3_Area\bin\Debug\netcoreapp2.0\Example3_Area.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example3_Area\Example3_Area\obj\Debug\netcoreapp2.0\Example3_Area.csprojAssemblyReference.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example3_Area\Example3_Area\obj\Debug\netcoreapp2.0\Example3_Area.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example3_Area\Example3_Area\obj\Debug\netcoreapp2.0\Example3_Area.AssemblyInfoInputs.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example3_Area\Example3_Area\obj\Debug\netcoreapp2.0\Example3_Area.AssemblyInfo.cs
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example3_Area\Example3_Area\obj\Debug\netcoreapp2.0\Example3_Area.dll
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example3_Area\Example3_Area\obj\Debug\netcoreapp2.0\Example3_Area.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Uygulamalar\Examples\Example3_Area\Example3_Area\bin\Debug\netcoreapp2.0\Example3_Area.deps.json
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Uygulamalar\Examples\Example3_Area\Example3_Area\bin\Debug\netcoreapp2.0\Example3_Area.runtimeconfig.json
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Uygulamalar\Examples\Example3_Area\Example3_Area\bin\Debug\netcoreapp2.0\Example3_Area.runtimeconfig.dev.json
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Uygulamalar\Examples\Example3_Area\Example3_Area\bin\Debug\netcoreapp2.0\Example3_Area.dll
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Uygulamalar\Examples\Example3_Area\Example3_Area\bin\Debug\netcoreapp2.0\Example3_Area.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Uygulamalar\Examples\Example3_Area\Example3_Area\obj\Debug\netcoreapp2.0\Example3_Area.csprojAssemblyReference.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Uygulamalar\Examples\Example3_Area\Example3_Area\obj\Debug\netcoreapp2.0\Example3_Area.AssemblyInfoInputs.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Uygulamalar\Examples\Example3_Area\Example3_Area\obj\Debug\netcoreapp2.0\Example3_Area.AssemblyInfo.cs
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Uygulamalar\Examples\Example3_Area\Example3_Area\obj\Debug\netcoreapp2.0\Example3_Area.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Uygulamalar\Examples\Example3_Area\Example3_Area\obj\Debug\netcoreapp2.0\Example3_Area.dll
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Uygulamalar\Examples\Example3_Area\Example3_Area\obj\Debug\netcoreapp2.0\Example3_Area.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Uygulamalar\Examples\Example3_Area\Example3_Area\obj\Debug\netcoreapp2.0\Example3_Area.genruntimeconfig.cache

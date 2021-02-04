@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "loW+U7gl6wzl4KXUX1eKtfRwwOlTyG34oSWM7zxLWbeI+Vn3eUDfDDzdoGh6qyhad0JEk/H0rKKhr1TEjTnBoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abidin\\Google Drive\\Ders Notları\\Windows Programlama\\Ders Notlarım\\Uygulamalar\\Examples\\Example2\\Example2\\Example2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abidin\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Abidin\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Abidin\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Abidin\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Abidin\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Abidin\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

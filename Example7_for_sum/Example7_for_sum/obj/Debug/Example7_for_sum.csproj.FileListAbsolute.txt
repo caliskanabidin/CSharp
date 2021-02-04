@@ -1,0 +1,14 @@
+C:\Users\Abidin\source\repos\Example7_for_sum\Example7_for_sum\bin\Debug\Example7_for_sum.exe.config
+C:\Users\Abidin\source\repos\Example7_for_sum\Example7_for_sum\bin\Debug\Example7_for_sum.exe
+C:\Users\Abidin\source\repos\Example7_for_sum\Example7_for_sum\bin\Debug\Example7_for_sum.pdb
+C:\Users\Abidin\source\repos\Example7_for_sum\Example7_for_sum\obj\Debug\Example7_for_sum.csprojAssemblyReference.cache
+C:\Users\Abidin\source\repos\Example7_for_sum\Example7_for_sum\obj\Debug\Example7_for_sum.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\source\repos\Example7_for_sum\Example7_for_sum\obj\Debug\Example7_for_sum.exe
+C:\Users\Abidin\source\repos\Example7_for_sum\Example7_for_sum\obj\Debug\Example7_for_sum.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Uygulamalar\Examples\Example7_for_sum\Example7_for_sum\bin\Debug\Example7_for_sum.exe.config
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Uygulamalar\Examples\Example7_for_sum\Example7_for_sum\bin\Debug\Example7_for_sum.exe
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Uygulamalar\Examples\Example7_for_sum\Example7_for_sum\bin\Debug\Example7_for_sum.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Uygulamalar\Examples\Example7_for_sum\Example7_for_sum\obj\Debug\Example7_for_sum.csprojAssemblyReference.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Uygulamalar\Examples\Example7_for_sum\Example7_for_sum\obj\Debug\Example7_for_sum.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Uygulamalar\Examples\Example7_for_sum\Example7_for_sum\obj\Debug\Example7_for_sum.exe
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Uygulamalar\Examples\Example7_for_sum\Example7_for_sum\obj\Debug\Example7_for_sum.pdb

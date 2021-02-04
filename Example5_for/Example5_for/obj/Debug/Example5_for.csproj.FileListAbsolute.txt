@@ -1,0 +1,14 @@
+C:\Users\Abidin\source\repos\Example5_for\Example5_for\bin\Debug\Example5_for.exe.config
+C:\Users\Abidin\source\repos\Example5_for\Example5_for\bin\Debug\Example5_for.exe
+C:\Users\Abidin\source\repos\Example5_for\Example5_for\bin\Debug\Example5_for.pdb
+C:\Users\Abidin\source\repos\Example5_for\Example5_for\obj\Debug\Example5_for.csprojAssemblyReference.cache
+C:\Users\Abidin\source\repos\Example5_for\Example5_for\obj\Debug\Example5_for.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\source\repos\Example5_for\Example5_for\obj\Debug\Example5_for.exe
+C:\Users\Abidin\source\repos\Example5_for\Example5_for\obj\Debug\Example5_for.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example5_for\Example5_for\bin\Debug\Example5_for.exe.config
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example5_for\Example5_for\bin\Debug\Example5_for.exe
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example5_for\Example5_for\bin\Debug\Example5_for.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example5_for\Example5_for\obj\Debug\Example5_for.csprojAssemblyReference.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example5_for\Example5_for\obj\Debug\Example5_for.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example5_for\Example5_for\obj\Debug\Example5_for.exe
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example5_for\Example5_for\obj\Debug\Example5_for.pdb

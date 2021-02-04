@@ -1,0 +1,20 @@
+c:\users\abidin\source\repos\Example10_ForConvertToChar\Example10_ForConvertToChar\bin\Debug\Example10_ForConvertToChar.exe.config
+c:\users\abidin\source\repos\Example10_ForConvertToChar\Example10_ForConvertToChar\bin\Debug\Example10_ForConvertToChar.exe
+c:\users\abidin\source\repos\Example10_ForConvertToChar\Example10_ForConvertToChar\bin\Debug\Example10_ForConvertToChar.pdb
+c:\users\abidin\source\repos\Example10_ForConvertToChar\Example10_ForConvertToChar\obj\Debug\Example10_ForConvertToChar.csproj.CoreCompileInputs.cache
+c:\users\abidin\source\repos\Example10_ForConvertToChar\Example10_ForConvertToChar\obj\Debug\Example10_ForConvertToChar.exe
+c:\users\abidin\source\repos\Example10_ForConvertToChar\Example10_ForConvertToChar\obj\Debug\Example10_ForConvertToChar.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example10_ForConvertToChar\Example10_ForConvertToChar\bin\Debug\Example10_ForConvertToChar.exe.config
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example10_ForConvertToChar\Example10_ForConvertToChar\bin\Debug\Example10_ForConvertToChar.exe
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example10_ForConvertToChar\Example10_ForConvertToChar\bin\Debug\Example10_ForConvertToChar.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example10_ForConvertToChar\Example10_ForConvertToChar\obj\Debug\Example10_ForConvertToChar.csprojAssemblyReference.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example10_ForConvertToChar\Example10_ForConvertToChar\obj\Debug\Example10_ForConvertToChar.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example10_ForConvertToChar\Example10_ForConvertToChar\obj\Debug\Example10_ForConvertToChar.exe
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 1st week\Example10_ForConvertToChar\Example10_ForConvertToChar\obj\Debug\Example10_ForConvertToChar.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example10_ForConvertToChar\Example10_ForConvertToChar\bin\Debug\Example10_ForConvertToChar.exe.config
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example10_ForConvertToChar\Example10_ForConvertToChar\bin\Debug\Example10_ForConvertToChar.exe
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example10_ForConvertToChar\Example10_ForConvertToChar\bin\Debug\Example10_ForConvertToChar.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example10_ForConvertToChar\Example10_ForConvertToChar\obj\Debug\Example10_ForConvertToChar.csprojAssemblyReference.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example10_ForConvertToChar\Example10_ForConvertToChar\obj\Debug\Example10_ForConvertToChar.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example10_ForConvertToChar\Example10_ForConvertToChar\obj\Debug\Example10_ForConvertToChar.exe
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example10_ForConvertToChar\Example10_ForConvertToChar\obj\Debug\Example10_ForConvertToChar.pdb
