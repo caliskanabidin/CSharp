@@ -1,0 +1,26 @@
+C:\Users\Abidin\source\repos\Otomatik_tip\Otomatik_tip\bin\Debug\netcoreapp3.1\Otomatik_tip.exe
+C:\Users\Abidin\source\repos\Otomatik_tip\Otomatik_tip\bin\Debug\netcoreapp3.1\Otomatik_tip.deps.json
+C:\Users\Abidin\source\repos\Otomatik_tip\Otomatik_tip\bin\Debug\netcoreapp3.1\Otomatik_tip.runtimeconfig.json
+C:\Users\Abidin\source\repos\Otomatik_tip\Otomatik_tip\bin\Debug\netcoreapp3.1\Otomatik_tip.runtimeconfig.dev.json
+C:\Users\Abidin\source\repos\Otomatik_tip\Otomatik_tip\bin\Debug\netcoreapp3.1\Otomatik_tip.dll
+C:\Users\Abidin\source\repos\Otomatik_tip\Otomatik_tip\bin\Debug\netcoreapp3.1\Otomatik_tip.pdb
+C:\Users\Abidin\source\repos\Otomatik_tip\Otomatik_tip\obj\Debug\netcoreapp3.1\Otomatik_tip.csprojAssemblyReference.cache
+C:\Users\Abidin\source\repos\Otomatik_tip\Otomatik_tip\obj\Debug\netcoreapp3.1\Otomatik_tip.AssemblyInfoInputs.cache
+C:\Users\Abidin\source\repos\Otomatik_tip\Otomatik_tip\obj\Debug\netcoreapp3.1\Otomatik_tip.AssemblyInfo.cs
+C:\Users\Abidin\source\repos\Otomatik_tip\Otomatik_tip\obj\Debug\netcoreapp3.1\Otomatik_tip.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\source\repos\Otomatik_tip\Otomatik_tip\obj\Debug\netcoreapp3.1\Otomatik_tip.dll
+C:\Users\Abidin\source\repos\Otomatik_tip\Otomatik_tip\obj\Debug\netcoreapp3.1\Otomatik_tip.pdb
+C:\Users\Abidin\source\repos\Otomatik_tip\Otomatik_tip\obj\Debug\netcoreapp3.1\Otomatik_tip.genruntimeconfig.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example12_2_TurDonusumu_Otomatik_tip\Otomatik_tip\bin\Debug\netcoreapp3.1\Otomatik_tip.exe
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example12_2_TurDonusumu_Otomatik_tip\Otomatik_tip\bin\Debug\netcoreapp3.1\Otomatik_tip.deps.json
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example12_2_TurDonusumu_Otomatik_tip\Otomatik_tip\bin\Debug\netcoreapp3.1\Otomatik_tip.runtimeconfig.json
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example12_2_TurDonusumu_Otomatik_tip\Otomatik_tip\bin\Debug\netcoreapp3.1\Otomatik_tip.runtimeconfig.dev.json
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example12_2_TurDonusumu_Otomatik_tip\Otomatik_tip\bin\Debug\netcoreapp3.1\Otomatik_tip.dll
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example12_2_TurDonusumu_Otomatik_tip\Otomatik_tip\bin\Debug\netcoreapp3.1\Otomatik_tip.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example12_2_TurDonusumu_Otomatik_tip\Otomatik_tip\obj\Debug\netcoreapp3.1\Otomatik_tip.csprojAssemblyReference.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example12_2_TurDonusumu_Otomatik_tip\Otomatik_tip\obj\Debug\netcoreapp3.1\Otomatik_tip.AssemblyInfoInputs.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example12_2_TurDonusumu_Otomatik_tip\Otomatik_tip\obj\Debug\netcoreapp3.1\Otomatik_tip.AssemblyInfo.cs
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example12_2_TurDonusumu_Otomatik_tip\Otomatik_tip\obj\Debug\netcoreapp3.1\Otomatik_tip.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example12_2_TurDonusumu_Otomatik_tip\Otomatik_tip\obj\Debug\netcoreapp3.1\Otomatik_tip.dll
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example12_2_TurDonusumu_Otomatik_tip\Otomatik_tip\obj\Debug\netcoreapp3.1\Otomatik_tip.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example12_2_TurDonusumu_Otomatik_tip\Otomatik_tip\obj\Debug\netcoreapp3.1\Otomatik_tip.genruntimeconfig.cache

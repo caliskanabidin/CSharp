@@ -1,0 +1,13 @@
+C:\Users\Abidin\source\repos\Example16_for_interest_Account\Example16_for_interest_Account\bin\Debug\Example16_for_interest_Account.exe.config
+C:\Users\Abidin\source\repos\Example16_for_interest_Account\Example16_for_interest_Account\bin\Debug\Example16_for_interest_Account.exe
+C:\Users\Abidin\source\repos\Example16_for_interest_Account\Example16_for_interest_Account\bin\Debug\Example16_for_interest_Account.pdb
+C:\Users\Abidin\source\repos\Example16_for_interest_Account\Example16_for_interest_Account\obj\Debug\Example16_for_interest_Account.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\source\repos\Example16_for_interest_Account\Example16_for_interest_Account\obj\Debug\Example16_for_interest_Account.exe
+C:\Users\Abidin\source\repos\Example16_for_interest_Account\Example16_for_interest_Account\obj\Debug\Example16_for_interest_Account.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example16_for_interest_Account\Example16_for_interest_Account\bin\Debug\Example16_for_interest_Account.exe.config
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example16_for_interest_Account\Example16_for_interest_Account\bin\Debug\Example16_for_interest_Account.exe
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example16_for_interest_Account\Example16_for_interest_Account\bin\Debug\Example16_for_interest_Account.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example16_for_interest_Account\Example16_for_interest_Account\obj\Debug\Example16_for_interest_Account.csprojAssemblyReference.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example16_for_interest_Account\Example16_for_interest_Account\obj\Debug\Example16_for_interest_Account.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example16_for_interest_Account\Example16_for_interest_Account\obj\Debug\Example16_for_interest_Account.exe
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example16_for_interest_Account\Example16_for_interest_Account\obj\Debug\Example16_for_interest_Account.pdb

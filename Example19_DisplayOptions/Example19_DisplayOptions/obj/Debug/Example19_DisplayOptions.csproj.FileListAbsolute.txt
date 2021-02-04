@@ -1,0 +1,19 @@
+C:\Users\Abidin\source\repos\Example19_DisplayOptions\Example19_DisplayOptions\bin\Debug\Example19_DisplayOptions.exe.config
+C:\Users\Abidin\source\repos\Example19_DisplayOptions\Example19_DisplayOptions\bin\Debug\Example19_DisplayOptions.exe
+C:\Users\Abidin\source\repos\Example19_DisplayOptions\Example19_DisplayOptions\bin\Debug\Example19_DisplayOptions.pdb
+C:\Users\Abidin\source\repos\Example19_DisplayOptions\Example19_DisplayOptions\obj\Debug\Example19_DisplayOptions.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\source\repos\Example19_DisplayOptions\Example19_DisplayOptions\obj\Debug\Example19_DisplayOptions.exe
+C:\Users\Abidin\source\repos\Example19_DisplayOptions\Example19_DisplayOptions\obj\Debug\Example19_DisplayOptions.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 3rd week\Example19_DisplayOptions\Example19_DisplayOptions\bin\Debug\Example19_DisplayOptions.exe.config
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 3rd week\Example19_DisplayOptions\Example19_DisplayOptions\bin\Debug\Example19_DisplayOptions.exe
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 3rd week\Example19_DisplayOptions\Example19_DisplayOptions\bin\Debug\Example19_DisplayOptions.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 3rd week\Example19_DisplayOptions\Example19_DisplayOptions\obj\Debug\Example19_DisplayOptions.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 3rd week\Example19_DisplayOptions\Example19_DisplayOptions\obj\Debug\Example19_DisplayOptions.exe
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 3rd week\Example19_DisplayOptions\Example19_DisplayOptions\obj\Debug\Example19_DisplayOptions.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example19_DisplayOptions\Example19_DisplayOptions\bin\Debug\Example19_DisplayOptions.exe.config
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example19_DisplayOptions\Example19_DisplayOptions\bin\Debug\Example19_DisplayOptions.exe
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example19_DisplayOptions\Example19_DisplayOptions\bin\Debug\Example19_DisplayOptions.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example19_DisplayOptions\Example19_DisplayOptions\obj\Debug\Example19_DisplayOptions.csprojAssemblyReference.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example19_DisplayOptions\Example19_DisplayOptions\obj\Debug\Example19_DisplayOptions.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example19_DisplayOptions\Example19_DisplayOptions\obj\Debug\Example19_DisplayOptions.exe
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example19_DisplayOptions\Example19_DisplayOptions\obj\Debug\Example19_DisplayOptions.pdb

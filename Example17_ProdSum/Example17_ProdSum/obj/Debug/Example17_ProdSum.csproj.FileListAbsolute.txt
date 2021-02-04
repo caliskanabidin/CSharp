@@ -1,0 +1,6 @@
+C:\Users\Abidin\source\repos\Example17_ProdSum\Example17_ProdSum\bin\Debug\Example17_ProdSum.exe.config
+C:\Users\Abidin\source\repos\Example17_ProdSum\Example17_ProdSum\bin\Debug\Example17_ProdSum.exe
+C:\Users\Abidin\source\repos\Example17_ProdSum\Example17_ProdSum\bin\Debug\Example17_ProdSum.pdb
+C:\Users\Abidin\source\repos\Example17_ProdSum\Example17_ProdSum\obj\Debug\Example17_ProdSum.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\source\repos\Example17_ProdSum\Example17_ProdSum\obj\Debug\Example17_ProdSum.exe
+C:\Users\Abidin\source\repos\Example17_ProdSum\Example17_ProdSum\obj\Debug\Example17_ProdSum.pdb

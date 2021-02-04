@@ -1,0 +1,19 @@
+C:\Users\Abidin\source\repos\Example20_UseDecimal\Example20_UseDecimal\bin\Debug\Example20_UseDecimal.exe.config
+C:\Users\Abidin\source\repos\Example20_UseDecimal\Example20_UseDecimal\bin\Debug\Example20_UseDecimal.exe
+C:\Users\Abidin\source\repos\Example20_UseDecimal\Example20_UseDecimal\bin\Debug\Example20_UseDecimal.pdb
+C:\Users\Abidin\source\repos\Example20_UseDecimal\Example20_UseDecimal\obj\Debug\Example20_UseDecimal.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\source\repos\Example20_UseDecimal\Example20_UseDecimal\obj\Debug\Example20_UseDecimal.exe
+C:\Users\Abidin\source\repos\Example20_UseDecimal\Example20_UseDecimal\obj\Debug\Example20_UseDecimal.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 3rd week\Example20_UseDecimal\Example20_UseDecimal\bin\Debug\Example20_UseDecimal.exe.config
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 3rd week\Example20_UseDecimal\Example20_UseDecimal\bin\Debug\Example20_UseDecimal.exe
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 3rd week\Example20_UseDecimal\Example20_UseDecimal\bin\Debug\Example20_UseDecimal.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 3rd week\Example20_UseDecimal\Example20_UseDecimal\obj\Debug\Example20_UseDecimal.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 3rd week\Example20_UseDecimal\Example20_UseDecimal\obj\Debug\Example20_UseDecimal.exe
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 3rd week\Example20_UseDecimal\Example20_UseDecimal\obj\Debug\Example20_UseDecimal.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples\Example20_UseDecimal\Example20_UseDecimal\bin\Debug\Example20_UseDecimal.exe.config
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples\Example20_UseDecimal\Example20_UseDecimal\bin\Debug\Example20_UseDecimal.exe
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples\Example20_UseDecimal\Example20_UseDecimal\bin\Debug\Example20_UseDecimal.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples\Example20_UseDecimal\Example20_UseDecimal\obj\Debug\Example20_UseDecimal.csprojAssemblyReference.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples\Example20_UseDecimal\Example20_UseDecimal\obj\Debug\Example20_UseDecimal.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples\Example20_UseDecimal\Example20_UseDecimal\obj\Debug\Example20_UseDecimal.exe
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples\Example20_UseDecimal\Example20_UseDecimal\obj\Debug\Example20_UseDecimal.pdb

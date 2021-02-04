@@ -1,0 +1,14 @@
+C:\Users\Abidin\source\repos\Example15_if_tax_account\Example15_if_tax_account\bin\Debug\Example15_if_tax_account.exe.config
+C:\Users\Abidin\source\repos\Example15_if_tax_account\Example15_if_tax_account\bin\Debug\Example15_if_tax_account.exe
+C:\Users\Abidin\source\repos\Example15_if_tax_account\Example15_if_tax_account\bin\Debug\Example15_if_tax_account.pdb
+C:\Users\Abidin\source\repos\Example15_if_tax_account\Example15_if_tax_account\obj\Debug\Example15_if_tax_account.csprojAssemblyReference.cache
+C:\Users\Abidin\source\repos\Example15_if_tax_account\Example15_if_tax_account\obj\Debug\Example15_if_tax_account.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\source\repos\Example15_if_tax_account\Example15_if_tax_account\obj\Debug\Example15_if_tax_account.exe
+C:\Users\Abidin\source\repos\Example15_if_tax_account\Example15_if_tax_account\obj\Debug\Example15_if_tax_account.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example15_if_tax_account\Example15_if_tax_account\bin\Debug\Example15_if_tax_account.exe.config
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example15_if_tax_account\Example15_if_tax_account\bin\Debug\Example15_if_tax_account.exe
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example15_if_tax_account\Example15_if_tax_account\bin\Debug\Example15_if_tax_account.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example15_if_tax_account\Example15_if_tax_account\obj\Debug\Example15_if_tax_account.csprojAssemblyReference.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example15_if_tax_account\Example15_if_tax_account\obj\Debug\Example15_if_tax_account.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example15_if_tax_account\Example15_if_tax_account\obj\Debug\Example15_if_tax_account.exe
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example15_if_tax_account\Example15_if_tax_account\obj\Debug\Example15_if_tax_account.pdb

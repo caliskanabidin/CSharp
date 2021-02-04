@@ -1,0 +1,21 @@
+C:\Users\Abidin\source\repos\Example13_if_Comparison\Example13_if_Comparison\bin\Debug\Example13_if_Comparison.exe.config
+C:\Users\Abidin\source\repos\Example13_if_Comparison\Example13_if_Comparison\bin\Debug\Example13_if_Comparison.exe
+C:\Users\Abidin\source\repos\Example13_if_Comparison\Example13_if_Comparison\bin\Debug\Example13_if_Comparison.pdb
+C:\Users\Abidin\source\repos\Example13_if_Comparison\Example13_if_Comparison\obj\Debug\Example13_if_Comparison.csprojAssemblyReference.cache
+C:\Users\Abidin\source\repos\Example13_if_Comparison\Example13_if_Comparison\obj\Debug\Example13_if_Comparison.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\source\repos\Example13_if_Comparison\Example13_if_Comparison\obj\Debug\Example13_if_Comparison.exe
+C:\Users\Abidin\source\repos\Example13_if_Comparison\Example13_if_Comparison\obj\Debug\Example13_if_Comparison.pdb
+C:\Users\Ogrenci\source\repos\Example13_if_Comparison\Example13_if_Comparison\bin\Debug\Example13_if_Comparison.exe.config
+C:\Users\Ogrenci\source\repos\Example13_if_Comparison\Example13_if_Comparison\bin\Debug\Example13_if_Comparison.exe
+C:\Users\Ogrenci\source\repos\Example13_if_Comparison\Example13_if_Comparison\bin\Debug\Example13_if_Comparison.pdb
+C:\Users\Ogrenci\source\repos\Example13_if_Comparison\Example13_if_Comparison\obj\Debug\Example13_if_Comparison.csprojAssemblyReference.cache
+C:\Users\Ogrenci\source\repos\Example13_if_Comparison\Example13_if_Comparison\obj\Debug\Example13_if_Comparison.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\source\repos\Example13_if_Comparison\Example13_if_Comparison\obj\Debug\Example13_if_Comparison.exe
+C:\Users\Ogrenci\source\repos\Example13_if_Comparison\Example13_if_Comparison\obj\Debug\Example13_if_Comparison.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 2nd week\Example13_if_Comparison\Example13_if_Comparison\bin\Debug\Example13_if_Comparison.exe.config
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 2nd week\Example13_if_Comparison\Example13_if_Comparison\bin\Debug\Example13_if_Comparison.exe
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 2nd week\Example13_if_Comparison\Example13_if_Comparison\bin\Debug\Example13_if_Comparison.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 2nd week\Example13_if_Comparison\Example13_if_Comparison\obj\Debug\Example13_if_Comparison.csprojAssemblyReference.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 2nd week\Example13_if_Comparison\Example13_if_Comparison\obj\Debug\Example13_if_Comparison.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 2nd week\Example13_if_Comparison\Example13_if_Comparison\obj\Debug\Example13_if_Comparison.exe
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\repos\Examples of the 2nd week\Example13_if_Comparison\Example13_if_Comparison\obj\Debug\Example13_if_Comparison.pdb

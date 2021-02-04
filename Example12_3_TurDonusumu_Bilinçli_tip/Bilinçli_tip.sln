@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bilinçli_tip", "Bilinçli_tip\Bilinçli_tip.csproj", "{BB02CD59-1C74-4C30-9A9C-43474B6445DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB02CD59-1C74-4C30-9A9C-43474B6445DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB02CD59-1C74-4C30-9A9C-43474B6445DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB02CD59-1C74-4C30-9A9C-43474B6445DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB02CD59-1C74-4C30-9A9C-43474B6445DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2B3F09F-C9DF-459C-96B0-7EE346F354FB}
+	EndGlobalSection
+EndGlobal

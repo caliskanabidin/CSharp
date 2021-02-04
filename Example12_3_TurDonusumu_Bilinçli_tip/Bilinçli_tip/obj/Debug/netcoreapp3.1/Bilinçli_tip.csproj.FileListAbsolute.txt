@@ -1,0 +1,26 @@
+C:\Users\Abidin\source\repos\Bilinçli_tip\Bilinçli_tip\obj\Debug\netcoreapp3.1\Bilinçli_tip.csprojAssemblyReference.cache
+C:\Users\Abidin\source\repos\Bilinçli_tip\Bilinçli_tip\obj\Debug\netcoreapp3.1\Bilinçli_tip.AssemblyInfoInputs.cache
+C:\Users\Abidin\source\repos\Bilinçli_tip\Bilinçli_tip\obj\Debug\netcoreapp3.1\Bilinçli_tip.AssemblyInfo.cs
+C:\Users\Abidin\source\repos\Bilinçli_tip\Bilinçli_tip\obj\Debug\netcoreapp3.1\Bilinçli_tip.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\source\repos\Bilinçli_tip\Bilinçli_tip\bin\Debug\netcoreapp3.1\Bilinçli_tip.exe
+C:\Users\Abidin\source\repos\Bilinçli_tip\Bilinçli_tip\bin\Debug\netcoreapp3.1\Bilinçli_tip.deps.json
+C:\Users\Abidin\source\repos\Bilinçli_tip\Bilinçli_tip\bin\Debug\netcoreapp3.1\Bilinçli_tip.runtimeconfig.json
+C:\Users\Abidin\source\repos\Bilinçli_tip\Bilinçli_tip\bin\Debug\netcoreapp3.1\Bilinçli_tip.runtimeconfig.dev.json
+C:\Users\Abidin\source\repos\Bilinçli_tip\Bilinçli_tip\bin\Debug\netcoreapp3.1\Bilinçli_tip.dll
+C:\Users\Abidin\source\repos\Bilinçli_tip\Bilinçli_tip\bin\Debug\netcoreapp3.1\Bilinçli_tip.pdb
+C:\Users\Abidin\source\repos\Bilinçli_tip\Bilinçli_tip\obj\Debug\netcoreapp3.1\Bilinçli_tip.dll
+C:\Users\Abidin\source\repos\Bilinçli_tip\Bilinçli_tip\obj\Debug\netcoreapp3.1\Bilinçli_tip.pdb
+C:\Users\Abidin\source\repos\Bilinçli_tip\Bilinçli_tip\obj\Debug\netcoreapp3.1\Bilinçli_tip.genruntimeconfig.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example12_3_TurDonusumu_Bilinçli_tip\Bilinçli_tip\bin\Debug\netcoreapp3.1\Bilinçli_tip.exe
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example12_3_TurDonusumu_Bilinçli_tip\Bilinçli_tip\bin\Debug\netcoreapp3.1\Bilinçli_tip.deps.json
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example12_3_TurDonusumu_Bilinçli_tip\Bilinçli_tip\bin\Debug\netcoreapp3.1\Bilinçli_tip.runtimeconfig.json
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example12_3_TurDonusumu_Bilinçli_tip\Bilinçli_tip\bin\Debug\netcoreapp3.1\Bilinçli_tip.runtimeconfig.dev.json
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example12_3_TurDonusumu_Bilinçli_tip\Bilinçli_tip\bin\Debug\netcoreapp3.1\Bilinçli_tip.dll
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example12_3_TurDonusumu_Bilinçli_tip\Bilinçli_tip\bin\Debug\netcoreapp3.1\Bilinçli_tip.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example12_3_TurDonusumu_Bilinçli_tip\Bilinçli_tip\obj\Debug\netcoreapp3.1\Bilinçli_tip.csprojAssemblyReference.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example12_3_TurDonusumu_Bilinçli_tip\Bilinçli_tip\obj\Debug\netcoreapp3.1\Bilinçli_tip.AssemblyInfoInputs.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example12_3_TurDonusumu_Bilinçli_tip\Bilinçli_tip\obj\Debug\netcoreapp3.1\Bilinçli_tip.AssemblyInfo.cs
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example12_3_TurDonusumu_Bilinçli_tip\Bilinçli_tip\obj\Debug\netcoreapp3.1\Bilinçli_tip.csproj.CoreCompileInputs.cache
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example12_3_TurDonusumu_Bilinçli_tip\Bilinçli_tip\obj\Debug\netcoreapp3.1\Bilinçli_tip.dll
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example12_3_TurDonusumu_Bilinçli_tip\Bilinçli_tip\obj\Debug\netcoreapp3.1\Bilinçli_tip.pdb
+C:\Users\Abidin\Google Drive\Ders Notları\Windows Programlama\Ders Notlarım\Uygulamalar\Examples\Example12_3_TurDonusumu_Bilinçli_tip\Bilinçli_tip\obj\Debug\netcoreapp3.1\Bilinçli_tip.genruntimeconfig.cache
